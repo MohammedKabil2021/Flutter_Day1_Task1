@@ -1,6 +1,7 @@
-# flutter_day1_task1
+# Flutter_Day1_Task1
 
-A new Flutter project.
+A Flutter project built from a Figma design:  
+[Task Management App – Community](https://www.figma.com/design/aFiR4KWXPHo1kj8kb4ayMl/Task-Management-App--Community-?node-id=12-797&t=wyL2F3HoW6HNzMMn-0)
 
 ## Getting Started
 
